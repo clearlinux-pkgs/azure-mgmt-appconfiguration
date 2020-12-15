@@ -1,5 +1,5 @@
 PKG_NAME := azure-mgmt-appconfiguration
-URL = https://files.pythonhosted.org/packages/78/51/0d34dff29c8b2814ca35ac7b2eb79fe7ff22a02fae9ef549ae12b5a129d9/azure-mgmt-appconfiguration-0.4.0.zip
+URL = https://files.pythonhosted.org/packages/dd/b1/da10dc4bbe2af67cc71f7031af6c102516227a8cf03ac1e503a6ba0e9194/azure-mgmt-appconfiguration-1.0.1.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
